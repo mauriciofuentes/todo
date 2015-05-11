@@ -1,0 +1,13 @@
+package tareas;
+
+public class jerarquia {
+
+	public static void main(String[] args) {
+		int i=5;
+		for(int a=i;a>0;a--);
+		for(int i=a;i>0;i--);
+		System.out.print("*");
+		System.out.println(" ");
+		}
+
+}

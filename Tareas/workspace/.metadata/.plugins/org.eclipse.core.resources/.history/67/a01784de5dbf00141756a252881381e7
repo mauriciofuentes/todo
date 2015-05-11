@@ -1,0 +1,9 @@
+package tareas;
+
+public class jerarquia {
+
+	public static void main(String[] args) {
+
+	}
+
+}
